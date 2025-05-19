@@ -1,2 +1,4 @@
 This is my text file
 This is Keely's Contribution
+This is Ben's Contribution
+This is Henry's Contribution
